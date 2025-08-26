@@ -1,0 +1,14 @@
+E:\C#Revision\Day03\bin\Debug\net9.0\Day03.exe
+E:\C#Revision\Day03\bin\Debug\net9.0\Day03.deps.json
+E:\C#Revision\Day03\bin\Debug\net9.0\Day03.runtimeconfig.json
+E:\C#Revision\Day03\bin\Debug\net9.0\Day03.dll
+E:\C#Revision\Day03\bin\Debug\net9.0\Day03.pdb
+E:\C#Revision\Day03\obj\Debug\net9.0\Day03.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Revision\Day03\obj\Debug\net9.0\Day03.AssemblyInfoInputs.cache
+E:\C#Revision\Day03\obj\Debug\net9.0\Day03.AssemblyInfo.cs
+E:\C#Revision\Day03\obj\Debug\net9.0\Day03.csproj.CoreCompileInputs.cache
+E:\C#Revision\Day03\obj\Debug\net9.0\Day03.dll
+E:\C#Revision\Day03\obj\Debug\net9.0\refint\Day03.dll
+E:\C#Revision\Day03\obj\Debug\net9.0\Day03.pdb
+E:\C#Revision\Day03\obj\Debug\net9.0\Day03.genruntimeconfig.cache
+E:\C#Revision\Day03\obj\Debug\net9.0\ref\Day03.dll

@@ -1,0 +1,14 @@
+D:\.NET Stack - ITI Belts\ITI Belts - First Round\Day-03\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.exe
+D:\.NET Stack - ITI Belts\ITI Belts - First Round\Day-03\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.deps.json
+D:\.NET Stack - ITI Belts\ITI Belts - First Round\Day-03\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.runtimeconfig.json
+D:\.NET Stack - ITI Belts\ITI Belts - First Round\Day-03\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.dll
+D:\.NET Stack - ITI Belts\ITI Belts - First Round\Day-03\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.pdb
+D:\.NET Stack - ITI Belts\ITI Belts - First Round\Day-03\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Stack - ITI Belts\ITI Belts - First Round\Day-03\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\.NET Stack - ITI Belts\ITI Belts - First Round\Day-03\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.AssemblyInfo.cs
+D:\.NET Stack - ITI Belts\ITI Belts - First Round\Day-03\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\.NET Stack - ITI Belts\ITI Belts - First Round\Day-03\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.dll
+D:\.NET Stack - ITI Belts\ITI Belts - First Round\Day-03\ConsoleApp3\obj\Debug\net9.0\refint\ConsoleApp3.dll
+D:\.NET Stack - ITI Belts\ITI Belts - First Round\Day-03\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.pdb
+D:\.NET Stack - ITI Belts\ITI Belts - First Round\Day-03\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.genruntimeconfig.cache
+D:\.NET Stack - ITI Belts\ITI Belts - First Round\Day-03\ConsoleApp3\obj\Debug\net9.0\ref\ConsoleApp3.dll
