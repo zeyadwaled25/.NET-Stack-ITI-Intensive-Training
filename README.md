@@ -1,19 +1,14 @@
 ﻿# .NET Stack - ITI Intensive Training 🚀  
 
-![.NET](https://img.shields.io/badge/.NET-9-purple?style=for-the-badge&logo=dotnet)  
-![C#](https://img.shields.io/badge/C%23-OOP-blue?style=for-the-badge&logo=c-sharp)  
-![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)  
-![SQL Server](https://img.shields.io/badge/SQL-Server-red?style=for-the-badge&logo=microsoftsqlserver)
-
 <p align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="500" alt=".NET Coding Animation"/>
-</p>  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C3FF&center=true&vCenter=true&width=800&lines=ITI+.NET+Stack+Training+Program;Full+Journey:+Yellow+%E2%9A%BF+Orange+%E2%9A%A1+Green+%F0%9F%8C%B2+Blue+%F0%9F%8C%8C;C%23+OOP+%7C+Advanced+C%23+%7C+EF+Core;Web+API+%7C+MVC+%7C+React;Cloud+%7C+DevOps+%7C+Microservices" alt="Typing Animation" />
+</p>
 
 This repository contains all the **tasks, exercises, and projects** from the  
-**.NET Stack - ITI Intensive Training** program.  
+**.NET Stack - ITI Intensive Training** (Yellow, Orange, Green, and Blue Belts).  
 
-The content is organized by days inside the `ITI Belts - First Round` folder,  
-where each subfolder represents the practical work and concepts covered during the training.
+Each day’s work is organized into subfolders inside `ITI Belts`,  
+covering **C#, OOP, Advanced Topics, Databases, Web Development, Cloud, and Agile Projects**.
 
 ---
 
@@ -33,25 +28,71 @@ where each subfolder represents the practical work and concepts covered during t
 ---
 
 ## 🛠️ Technologies & Tools
-- **C# .NET 9**
-- **Visual Studio 2022**
-- **Object-Oriented Programming (OOP)**
-- **LINQ / Entity Framework Core**
-- **SQL Server**
+- **C# (OOP, Advanced, LINQ, Async)**
+- **.NET 9 / ASP.NET Core (MVC, Web API, Blazor)**
+- **Entity Framework Core & SQL Server**
+- **JavaScript, TypeScript, React**
+- **Cloud (Azure / AWS), Docker, Kubernetes**
+- **Microservices, Design Patterns, Clean Architecture**
 - **Git & GitHub**
+- **Agile / Scrum**
 
 ---
 
-## 🎯 Learning Goals
-✨ Master **C# fundamentals** and advanced **.NET features**  
-✨ Apply **OOP principles** in real-world examples  
-✨ Strengthen **problem-solving skills** through daily coding tasks  
-✨ Gain hands-on experience with **databases & ORM** using EF Core  
-✨ Improve **clean code practices** and teamwork readiness
+# 📘 Training Path & Content  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThjZTVsY3gyanFjd2w4dDlzdHQwbG9lc3Rna2N5aXEyN2E0N21saiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif" width="400" alt=".NET Developer Animation"/>
-</p>  
+### 🟡 Yellow Belt – Foundation
+- **OOP with C# (42 hrs):** Encapsulation, Inheritance, Polymorphism, Abstraction.  
+- **Advanced C# (48 hrs):** Delegates, Events, Generics, LINQ.  
+- **Source Control (12 hrs):** Git essentials & collaboration workflows.  
+- **Agile (18 hrs):** Agile & Scrum foundations.  
+
+**Assessment:**  
+- 40% Tasks | 40% Project | 20% Problem Solving (≥20 problems).  
+
+---
+
+### 🟠 Orange Belt – Data & Backend
+- **Databases (SQL Server, EF Core, LINQ-to-SQL).**  
+- **Advanced C# Features (Async/Await, Parallel Programming).**  
+- **Web API Development (RESTful APIs, Authentication).**  
+- **Design Patterns & SOLID Principles.**  
+
+**Assessment:**  
+- 40% Project | 40% Tasks | 20% Problem Solving (≥20 problems).  
+
+---
+
+### 🟢 Green Belt – Web Development
+- **ASP.NET Core MVC & Razor Pages.**  
+- **Frontend Integration (HTML, CSS, JS, React/Angular basics).**  
+- **State Management & Middleware.**  
+- **Testing (Unit Testing, Integration Testing).**  
+- **Security & Identity.**  
+
+**Assessment:**  
+- 40% Major Project | 40% Tasks | 20% Problem Solving.  
+
+---
+
+### 🔵 Blue Belt – Advanced & Enterprise
+- **Cloud Computing (Azure/AWS basics, Deployment).**  
+- **Docker & Kubernetes (Containerization & Orchestration).**  
+- **Microservices Architecture (gRPC, API Gateway, Event-driven).**  
+- **Clean Architecture & DDD.**  
+- **CI/CD Pipelines (GitHub Actions, Azure DevOps).**  
+
+**Assessment:**  
+- Final Graduation Project applying all stacks.  
+
+---
+
+## 📝 Assessment System
+| Component        | Weight   |
+|------------------|----------|
+| Tasks            | 30–40%  |
+| Projects         | 40–50%  |
+| Problem Solving  | 20%     |
 
 ---
 
@@ -69,10 +110,14 @@ where each subfolder represents the practical work and concepts covered during t
 
 ## 📌 Highlights
 
-✅ Covers OOP Concepts (Encapsulation, Inheritance, Polymorphism, Abstraction)
-✅ Hands-on Database Tasks with SQL Server & EF Core
-✅ Covers Networking & OS Basics
-✅ Includes C# Practice Examples
+✅ C# Fundamentals & OOP (Encapsulation, Inheritance, Polymorphism, Abstraction)  
+✅ Exception Handling, Collections & Generics  
+✅ LINQ & Asynchronous Programming  
+✅ Hands-on Database Tasks with SQL Server & EF Core  
+✅ Design Patterns & Software Architecture Basics  
+✅ Networking & Operating System Concepts  
+✅ Daily Practical Tasks & Projects  
+✅ Problem Solving & Algorithmic Thinking  
 
 ## 👨‍💻 Author
 **Zeyad Waled** - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zeyad-waled-3504a9295/)  
