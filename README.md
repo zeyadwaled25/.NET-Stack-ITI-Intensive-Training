@@ -1,16 +1,19 @@
 ﻿# .NET Stack - ITI Intensive Training 🚀  
 
-![.NET](https://img.shields.io/badge/.NET-6/7-purple?style=for-the-badge&logo=dotnet)  
+![.NET](https://img.shields.io/badge/.NET-9-purple?style=for-the-badge&logo=dotnet)  
 ![C#](https://img.shields.io/badge/C%23-OOP-blue?style=for-the-badge&logo=c-sharp)  
 ![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)  
-![SQL Server](https://img.shields.io/badge/SQL-Server-red?style=for-the-badge&logo=microsoftsqlserver)  
+![SQL Server](https://img.shields.io/badge/SQL-Server-red?style=for-the-badge&logo=microsoftsqlserver)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="500" alt="C# Coding Animation"/>
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="500" alt=".NET Coding Animation"/>
 </p>  
 
-This repository contains all the tasks, exercises, and hands-on projects from the **.NET Stack - ITI Intensive Training** program.  
-The content is organized by days inside the `ITI Belts - First Round` folder, where each subfolder represents practical work and concepts covered during the training.  
+This repository contains all the **tasks, exercises, and projects** from the  
+**.NET Stack - ITI Intensive Training** program.  
+
+The content is organized by days inside the `ITI Belts - First Round` folder,  
+where each subfolder represents the practical work and concepts covered during the training.
 
 ---
 
@@ -30,7 +33,7 @@ The content is organized by days inside the `ITI Belts - First Round` folder, wh
 ---
 
 ## 🛠️ Technologies & Tools
-- **C# .NET 6/7**
+- **C# .NET 9**
 - **Visual Studio 2022**
 - **Object-Oriented Programming (OOP)**
 - **LINQ / Entity Framework Core**
@@ -44,10 +47,10 @@ The content is organized by days inside the `ITI Belts - First Round` folder, wh
 ✨ Apply **OOP principles** in real-world examples  
 ✨ Strengthen **problem-solving skills** through daily coding tasks  
 ✨ Gain hands-on experience with **databases & ORM** using EF Core  
-✨ Improve **clean code practices** and teamwork readiness  
+✨ Improve **clean code practices** and teamwork readiness
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400" alt="Learning Animation"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThjZTVsY3gyanFjd2w4dDlzdHQwbG9lc3Rna2N5aXEyN2E0N21saiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif" width="400" alt=".NET Developer Animation"/>
 </p>  
 
 ---
@@ -64,7 +67,12 @@ The content is organized by days inside the `ITI Belts - First Round` folder, wh
 
 ---
 
+## 📌 Highlights
+
+✅ Covers OOP Concepts (Encapsulation, Inheritance, Polymorphism, Abstraction)
+✅ Hands-on Database Tasks with SQL Server & EF Core
+✅ Covers Networking & OS Basics
+✅ Includes C# Practice Examples
+
 ## 👨‍💻 Author
-**Zeyad Waled**  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/zeyadwaled25)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zeyad-waled-3504a9295/)  
+**Zeyad Waled** - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zeyad-waled-3504a9295/)  
