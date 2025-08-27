@@ -1,0 +1,41 @@
+# ============= Visual Studio =============
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ============= Build results =============
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Tt]emp/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+[Aa][Rr][Mm]*/
+[Aa][Rr][Mm]64/
+
+# ============= Packages =============
+packages/
+*.nupkg
+*.snupkg
+
+# ============= Others =============
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.ldf
+*.bak
+*.dbmdl
+*.publish.xml
+*.ide
+
+# ============= Rider / VSCode / Tye =============
+.idea/
+.vscode/
+.tye/
