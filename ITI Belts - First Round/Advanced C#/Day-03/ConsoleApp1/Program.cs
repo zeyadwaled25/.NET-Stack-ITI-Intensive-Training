@@ -67,6 +67,16 @@
             //Task 8 Extension Method – IsPrime
             int y = 7;
             Console.WriteLine(y.IsPrime());
+
+            //Task 9 Records
+            Product p1 = new Product(1, "Laptop", 1500);
+            Product p2 = new Product(1, "Laptop", 1500);
+            Console.WriteLine(p1 == p2);
+
+            //Task 10 Record with Deconstruction
+            var p3 = new Product(1, "Laptop", 1500);
+            var (id, name, price) = p3;
+            Console.WriteLine($"Id: {id}, Name: {name}, Price: {price}");
         }
     }
 }
