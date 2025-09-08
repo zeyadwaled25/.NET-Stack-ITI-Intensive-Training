@@ -33,6 +33,24 @@
             ProductOrder("Laptop");
             ProductOrder("Keyboard", 5);
             ProductOrder(productName: "Monitor", customer: "Alice", expressDelivery: true, quantity: 2);
+
+            //Task 4 Discounted Order
+            void DiscountedOrder(string productName, int quantity = 1, string customer = "Guest", bool expressDelivery = false, double discount = 0)
+            {
+                double pricePerProduct = 100;
+                double total = quantity * pricePerProduct;
+                if (discount > 0)
+                {
+                    double discountedTotal = total * (1 - discount);
+                    Console.WriteLine($"Product: {productName} | Quantity: {quantity} | Customer: {customer} | Express Delivery: {expressDelivery} | Discount: {discount * 100}% | Total Price: {discountedTotal:C}");
+                }
+                else
+                {
+                    Console.WriteLine($"Product: {productName} | Quantity: {quantity} | Customer: {customer} | Express Delivery: {expressDelivery}");
+                }
+            }
+
+            DiscountedOrder("Tablet", 2, "Bob", true, 0.1);
         }
     }
 }
