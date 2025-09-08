@@ -59,6 +59,14 @@
             //Task 6 Extension Method – Character Count
             string message1 = "Hello";
             Console.WriteLine(message1.CountCharacters());
+
+            //Task 7 Extension Method – IsEven
+            int x = 8;
+            Console.WriteLine(x.IsEven());
+
+            //Task 8 Extension Method – IsPrime
+            int y = 7;
+            Console.WriteLine(y.IsPrime());
         }
     }
 }
