@@ -23,6 +23,16 @@
             }
 
             Console.WriteLine($"Product of numbers from 1 to 5 = {ProductNumbers(5)}");
+
+            //Task 3 Optional & Named Parameters – Product Order
+            void ProductOrder(string productName, int quantity = 1, string customer = "Guest", bool expressDelivery = false)
+            {
+                Console.WriteLine($"Product: {productName} | Quantity: {quantity} | Customer: {customer} | Express Delivery: {expressDelivery}");
+            }
+
+            ProductOrder("Laptop");
+            ProductOrder("Keyboard", 5);
+            ProductOrder(productName: "Monitor", customer: "Alice", expressDelivery: true, quantity: 2);
         }
     }
 }
