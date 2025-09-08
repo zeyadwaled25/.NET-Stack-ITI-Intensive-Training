@@ -51,6 +51,14 @@
             }
 
             DiscountedOrder("Tablet", 2, "Bob", true, 0.1);
+
+            //Task 5 Extension Method – Reverse String
+            string message = "hello";
+            Console.WriteLine(message.ReverseText());
+
+            //Task 6 Extension Method – Character Count
+            string message1 = "Hello";
+            Console.WriteLine(message1.CountCharacters());
         }
     }
 }
