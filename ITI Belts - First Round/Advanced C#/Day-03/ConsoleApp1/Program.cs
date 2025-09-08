@@ -14,6 +14,15 @@
             }
 
             Console.WriteLine($"Sum of numbers from 1 to 10 = {SumNumbers(10)}");
+
+            //Task 2 Product of Natural Numbers (Recursion)
+            int ProductNumbers(int n)
+            {
+                if (n <= 1) return 1;
+                return n * ProductNumbers(n - 1);
+            }
+
+            Console.WriteLine($"Product of numbers from 1 to 5 = {ProductNumbers(5)}");
         }
     }
 }
